@@ -1,0 +1,64 @@
+{
+  "senders": [
+    {
+      "id": 1,
+      "name": "Remitente 1",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 2,
+      "name": "Remitente 2",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 3,
+      "name": "Remitente 3",
+      "dni": "10203040",
+      "phone": "998899988"
+    }
+  ],
+  "consignees": [
+    {
+      "id": 1,
+      "name": "consignatario 1",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 2,
+      "name": "consignatario 2",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 3,
+      "name": "consignatario 3",
+      "dni": "10203040",
+      "phone": "998899988"
+    }
+  ],
+  "Destinations": [
+    {
+      "id": 1,
+      "name": "Destino 1"
+    },
+    {
+      "id": 2,
+      "name": "Destino 2"
+    },
+    {
+      "id": 3,
+      "name": "destino 3"
+    },
+    {
+      "id": 4,
+      "name": "Destino 4"
+    },
+    {
+      "id": 5,
+      "name": "destino 5"
+    }
+  ]
+}
