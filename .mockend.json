@@ -1,5 +1,5 @@
 { 
   "Destination": {
-    "name": { "regexp": "[DESTINO]{5,10}" }  
+    "name": { "regexp": "destino[1-100]{5}" }  
   }
 }
