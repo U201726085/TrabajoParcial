@@ -1,5 +1,5 @@
 { 
   "User": {
-  "firstName": { "regexp": "[A-Z][a-z]{5,10}" } 
+  "firstName": { "string": {} } 
     }
 }
