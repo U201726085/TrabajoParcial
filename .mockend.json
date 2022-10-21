@@ -1,5 +1,7 @@
 { 
   "User": {
-  "firstName": { "string": [] } 
+  "firstName": { "string": [
+      "Thor",
+      "Loki"] } 
     }
 }
