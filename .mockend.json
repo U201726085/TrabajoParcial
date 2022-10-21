@@ -1,5 +1,22 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "senders": [
+    {
+      "id": 2,
+      "name": "Maria",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 3,
+      "name": "Tristan",
+      "dni": "10203040",
+      "phone": "998899988"
+    },
+    {
+      "id": 4,
+      "name": "clau",
+      "dni": "78945612",
+      "phone": "987654321"
+    }
+  ]
 }
