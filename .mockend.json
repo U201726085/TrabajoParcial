@@ -1,5 +1,5 @@
 { 
-  "Sender": {
+  "Senders": {
     "name": { "string": {} },
     "online": { "boolean": {} },
     "picture": { "regexp": "https://…" }
