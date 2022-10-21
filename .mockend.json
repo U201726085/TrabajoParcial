@@ -1,5 +1,5 @@
 { 
   "Destination": {
-    "name": { "string": { "regexp": "['Cajamarca']{5,10}" } }
+    "name": { "string": { "regexp": "[Cajamarca]{5,10}" } }
   }
 }
