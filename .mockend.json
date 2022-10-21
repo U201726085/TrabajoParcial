@@ -1,7 +1,7 @@
 { 
   "Sender": {
-    "name": { "string": ["Uno", "Dos"] },
-    "dni": { "string":  ["Uno", "Dos"] },
-    "phone": { "string":  ["Uno", "Dos"] }
+    "name": { "string": [""] },
+    "dni": { "string":  [""] },
+    "phone": { "string":  [""] }
   }
 }
