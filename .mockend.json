@@ -1,7 +1,5 @@
 { 
-  "Sender": {
-    "name": { "string": [""] },
-    "dni": { "string":  [""] },
-    "phone": { "string":  [""] }
+  "Destiny": {
+    "name": { "string": ["Cajamarca"] } }
   }
 }
