@@ -1,7 +1,11 @@
 {
     "User": {
         "id": "id",
-        "first_name": "firstName",
-        "last_name": "lastName"
-    }
+        "name": {
+            "string": [
+                        "Thor",
+                        "Loki"
+                    ]
+                }
+        }
 }
