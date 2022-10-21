@@ -1,5 +1,7 @@
 { 
   "User": {
-  "firstName": { "string": {} } 
-    }
+    "name": { "string": {} },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" }
+  }
 }
